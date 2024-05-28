@@ -1,0 +1,45 @@
+{
+  "item.modxz.amber": "amber",
+
+
+  "item.modxz.amber_raw": "amber raw",
+
+
+
+  "item.modxz.amber_pickaxe": "Amber Pickaxe",
+
+  "item.modxz.amber_axe": "amber axe",
+
+  "item.modxz.amber_sword": "amber sword",
+
+  "item.modxz.amber_shovel": "ambershovel",
+
+  "item.modxz.amber_hoe": "amber hoe",
+
+
+
+
+
+  "itemGroup.KekLol": "Keklol",
+
+
+  "block.modxz.amber_block": "Amber block",
+
+  "block.modxz.amber_ore": "Amber ore",
+
+  "block.modxz.deepslate_amber_ore": "Deepslate amber ore",
+
+
+
+
+  "item.modxz.adidas_helmet": "adidas helmet",
+
+  "item.modxz.adidas_chestplate": "adidas chestplate",
+
+  "item.modxz.adidas_leggings": "adidas leggins",
+
+  "item.modxz.adidas_boots": "adidas boots"
+
+
+
+}
